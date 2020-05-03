@@ -107,7 +107,7 @@
 	      <url>http://13.235.103.28:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository> -->
             <site>
-      	      <id>site-server</id>
+      	      <id>nexus</id>
       	      <name>Test Project Site</name>
       	      <url>file:///tmp/maven-project-site</url>
     	    </site>
